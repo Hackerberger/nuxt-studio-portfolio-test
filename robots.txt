@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://canvas.hrcd.fr/sitemap_index.xml
+Sitemap: https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/sitemap_index.xml
 # END nuxt-robots

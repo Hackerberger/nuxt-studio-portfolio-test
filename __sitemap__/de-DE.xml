@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/</loc>
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/en" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de" hreflang="de-DE" />
+    </url>
+    <url>
+        <loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de</loc>
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/en" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de" hreflang="de-DE" />
+        <image:image>
+            <image:loc>https://avatars.githubusercontent.com/u/71938701?v=4</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://vercel.com/button</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/about</loc>
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/en/about" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/about" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/about" hreflang="de-DE" />
+        <image:image>
+            <image:loc>https://avatars.githubusercontent.com/u/71938701?v=4</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/contact</loc>
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/en/contact" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/contact" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/contact" hreflang="de-DE" />
+    </url>
+    <url>
+        <loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/works</loc>
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/en/works" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/works" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/works" hreflang="de-DE" />
+        <image:image>
+            <image:loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/_ipx/_/projects/canvas.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/_ipx/_/projects/helpr.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/_ipx/_/projects/hr-folio.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/_ipx/_/projects/maison-hochard.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/_ipx/_/projects/mockline.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/_ipx/_/projects/nuxtlog.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/_ipx/_/projects/shelve.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/writing</loc>
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/en/writing" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/writing" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/writing" hreflang="de-DE" />
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/articles/5-raycast-snippets.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/articles/launch-your-porfolio.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/articles/trap-of-perfection.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/articles/5-amazing-raycast-nuxt-snippets</loc>
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/en/articles/5-amazing-raycast-nuxt-snippets" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/articles/5-amazing-raycast-nuxt-snippets" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/articles/5-amazing-raycast-nuxt-snippets" hreflang="de-DE" />
+    </url>
+    <url>
+        <loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/articles/launch-your-portfolio</loc>
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/en/articles/launch-your-portfolio" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/articles/launch-your-portfolio" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/articles/launch-your-portfolio" hreflang="de-DE" />
+        <image:image>
+            <image:loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/_ipx/_/articles/launch-your-porfolio.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/articles/not-an-impostor</loc>
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/en/articles/not-an-impostor" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/articles/not-an-impostor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/de/articles/not-an-impostor" hreflang="de-DE" />
+        <image:image>
+            <image:loc>https://hackerberger-nuxt-studio-portfolio-test.nuxt.space/_ipx/_/articles/trap-of-perfection.jpg</image:loc>
+        </image:image>
+    </url>
+</urlset>
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2025-11-18T08:30:27.222Z -->
