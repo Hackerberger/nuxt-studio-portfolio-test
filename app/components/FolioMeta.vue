@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { ContentEnCollectionItem, ContentFrCollectionItem } from '@nuxt/content'
+import type { ContentEnCollectionItem, ContentDeCollectionItem } from '@nuxt/content'
 
 useScriptPlausibleAnalytics({
   domain: 'canvas.hrcd.fr',
@@ -9,7 +9,7 @@ useScriptPlausibleAnalytics({
 })
 
 const { page, isWriting } = defineProps<{
-  page: ContentEnCollectionItem | ContentFrCollectionItem
+  page: ContentEnCollectionItem | ContentDeCollectionItem
   isWriting: boolean
 }>()
 

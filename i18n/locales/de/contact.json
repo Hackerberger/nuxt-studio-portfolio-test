@@ -1,0 +1,21 @@
+{
+  "title": "Kontaktieren Sie mich",
+  "description": "Lassen Sie uns über Ihre Idee, Ihr Projekt oder alles andere sprechen!",
+  "fullname": "Vollständiger Name",
+  "email": "E-Mail",
+  "phone": "Telefon",
+  "subject": "Betreff Ihrer Nachricht",
+  "message": "Nachricht",
+  "submit": "Senden",
+  "disabled": "Sie müssen Ihren Resend-API-Schlüssel festlegen",
+  "success": "Ihre Nachricht wurde erfolgreich gesendet",
+  "error": "Hoppala, beim Senden Ihrer Nachricht ist ein Fehler aufgetreten :(",
+  "budget": "Budget",
+  "subject_types": {
+    "project": "Über ein Projekt sprechen",
+    "bug": "Einen Fehler melden",
+    "question": "Eine Frage stellen",
+    "other": "Sonstiges"
+  }
+}
+

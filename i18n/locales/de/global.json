@@ -1,0 +1,22 @@
+{
+  "app_description": "Canvas ist eine einfache und schlichte Portfolio-Vorlage für Designer und Entwickler, erstellt mit Nuxt und Tailwind CSS. Mit ❤\uFE0F gemacht von HugoRCD",
+  "copied_to_clipboard": "In die Zwischenablage kopiert",
+  "article_link_copied": "Artikellink in die Zwischenablage kopiert",
+  "email_copied": "E-Mail in die Zwischenablage kopiert",
+  "back_to_home": "Zurück zur Startseite",
+  "switch_french": "Auf Französisch wechseln",
+  "switch_english": "Auf Englisch wechseln",
+  "search": "Nach einem Befehl suchen",
+  "command": "Verfügbare Befehle",
+  "not_found": "Kein Befehl gefunden",
+  "see_more": "Mehr anzeigen",
+  "soon": "Bald verfügbar",
+  "experiences": "Erfahrungen",
+  "contact": "Kontakt aufnehmen",
+  "email": "E-Mail kopieren",
+  "cv": "Meinen Lebenslauf herunterladen",
+  "meeting": "Termin vereinbaren",
+  "available": "Verfügbar für neue Möglichkeiten",
+  "unavailable": "Aktuell an anderen tollen Projekten beschäftigt",
+  "all_rights_reserved": "Alle Rechte vorbehalten"
+}
